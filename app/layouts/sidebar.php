@@ -21,7 +21,7 @@
                <ul class="sidebar-nav sidebar-subnav collapse" id="visitors">
                   <li class="sidebar-subnav-header">Visitors</li>
                   <li class=" "><a href="visit-log.php" title="Chartist"><span>Visitor log</span></a></li>
-                  <li class=" "><a href="#" title="Chartist"><span>Invites</span></a></li>
+                  <li class=" "><a href="invites.php" title="Chartist"><span>Invites</span></a></li>
                   <li class=" "><a href="#" title="Chartist"><span>Devices</span></a></li>
                   <li class=" "><a href="#" title="Chartist"><span>Settings</span></a></li>
                </ul>

@@ -20,6 +20,13 @@
    <script src="vendor/jquery.flot.spline/jquery.flot.spline.js"></script><!-- EASY PIE CHART-->
    <script src="vendor/easy-pie-chart/dist/jquery.easypiechart.js"></script><!-- MOMENT JS-->
    <script src="vendor/moment/min/moment-with-locales.js"></script><!-- =============== APP SCRIPTS ===============-->
+   <!-- Datatables-->
+   <script src="vendor/datatables.net/js/jquery.dataTables.js"></script>
+   <script src="vendor/datatables.net-bs4/js/dataTables.bootstrap4.js"></script>
+   <script src="vendor/datatables.net-keytable/js/dataTables.keyTable.js"></script>
+   <script src="vendor/datatables.net-responsive/js/dataTables.responsive.js"></script>
+   <script src="vendor/datatables.net-responsive-bs/js/responsive.bootstrap.js"></script>
+   <!-- =============== APP SCRIPTS ===============-->
    <script src="js/app.js"></script>
    <script src="js/custom.js"></script>
 </body>

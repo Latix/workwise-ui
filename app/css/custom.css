@@ -577,6 +577,151 @@
     border-color: #dee2e6;
 }
 
+.invite-btn
+{
+    background: #00914b;
+    color: #fff;
+    font-weight: bold;
+    transition: all .5s;
+}
+
+.signout-padding
+{
+    padding-left: 1rem;
+}
+
+table.dataTable.dtr-inline.collapsed > tbody > tr[role="row"] > td:first-child
+{
+    position: relative;
+    padding-left: 30px;
+    cursor: pointer;
+    top: 38px;
+    left: 10px;
+}
+
+
+.flatpickr-day.selected,
+.flatpickr-day.selected:hover
+{
+    background: #00914b;
+    box-shadow: none;
+    color: #fff;
+    border-color: #00914b;
+}
+
+.flatpickr-months .flatpickr-next-month:hover svg {
+    fill: #00914b;
+}
+
+.form-control[readonly] {
+    opacity: 1;
+    background: none;
+    height: 40px;
+}
+
+
+.log-date
+{
+    width: 33.33%;
+    display: inline-block;
+}
+
+.table.visitorsTable div.ember-view {
+    display: table-row;
+}
+
+.ember-basic-dropdown-trigger {
+    outline: 0;
+}
+
+.js-entry-action-menu-trigger:hover
+{
+    cursor: pointer;
+}
+
+.js-entry-action-menu-trigger:hover .js-entry-action-menu-icon path, 
+.navBack-icon:hover path
+{
+    fill: #00914b;
+}
+
+.visit-drop-height {
+    height: 40px;
+}
+
+.monogram, .monogram.two {
+    font-size: 20px;
+    line-height: 50px;
+}
+
+.monogram {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    font-weight: 400;
+    color: #fff;
+    margin: 0 auto;
+    text-transform: uppercase;
+}
+
+.invite-new a.navBack
+{
+    text-decoration: none;
+}
+
+.navBack-icon {
+    vertical-align: -3px;
+    transition: all .2s;
+}
+
+.invite-new h2
+{
+    font-size: 1.5rem;
+}
+
+.custom-select:focus 
+{
+    border-color: #00914b;
+    box-shadow: 0 0 0 0.2rem rgba(93, 156, 236, 0.25);
+}
+
+.required
+{
+    color: red;
+    vertical-align: middle;
+}
+
+.invite-btn
+{
+    cursor: pointer;
+    background: #00914b;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 3px;
+    font-size: 13px;
+    -webkit-appearance: none;
+    outline: none !important;
+    padding: 0.625rem 1.25rem;
+    line-height: 1.5;
+    border-color: #00914b;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    user-select: none;
+    border: 1px solid transparent;
+    text-transform: none;
+    overflow: visible;
+    margin: 0;
+    font-family: inherit;
+    transition: all .5s;
+}
+
+.invite-btn:hover
+{
+    opacity: .8;
+}
+
 @media screen and (min-width: 1024px) {
 	.lg\:tw-text-sm {
 	    font-size: .875rem;
@@ -588,8 +733,36 @@
     {
         display: none;
     }
+
+    .log-counts
+    {
+        max-width: 11%;
+        margin-top: 5px;
+    }
+
+    .invite-drop-height {
+        height: 40px;
+        width: 250px;
+    }
 }
+
 @media screen and (max-width: 768px) {
+    .invite-drop-height {
+        height: 40px;
+        width: 100%;
+    }
+
+    .log-counts
+    {
+        max-width: 100%;
+    }
+
+    .log-date, .log-type
+    {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
     .no-visits h2
     {
         font-size: 1.2rem;

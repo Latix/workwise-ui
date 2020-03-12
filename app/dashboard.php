@@ -140,7 +140,7 @@
                                           </div>
                                           <div class="tw-w-full">
                                              <div class="tw-ml-2" style="margin-top: 1px;">
-                                                <span>Pair an iPad to each room.</span><br>
+                                                <span>Pair a tablet to each room.</span><br>
                                               </div>
                                           </div>
                                        </li>
