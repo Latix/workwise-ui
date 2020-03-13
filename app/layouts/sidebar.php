@@ -20,10 +20,15 @@
                <a href="#visitors" title="Visitors" data-toggle="collapse"><em class="icon-people"></em><span>Visitors</span></a>
                <ul class="sidebar-nav sidebar-subnav collapse" id="visitors">
                   <li class="sidebar-subnav-header">Visitors</li>
-                  <li class=" "><a href="visit-log.php" title="Chartist"><span>Visitor log</span></a></li>
-                  <li class=" "><a href="invites.php" title="Chartist"><span>Invites</span></a></li>
-                  <li class=" "><a href="#" title="Chartist"><span>Devices</span></a></li>
-                  <li class=" "><a href="#" title="Chartist"><span>Settings</span></a></li>
+                  <li class=" "><a href="visit-log.php" title="Visitor log"><span>Visitor log</span></a></li>
+                  <li class=" "><a href="invites.php" title="Invites"><span>Invites</span></a></li>
+                  <li class=" "><a href="devices.php" title="Devices"><span>Devices</span></a></li>
+                  <li class=" "><a href="#visitor-settings" title="Level 1" data-toggle="collapse" class="collapsed" aria-expanded="false"><span>Settings</span></a>
+                     <ul class="sidebar-nav sidebar-subnav collapse" id="visitor-settings" style="">
+                        <li class=" "><a href="account-settings.php" title="Account"><span>Account</span></a>
+                        </li>
+                     </ul>
+                  </li>
                </ul>
             </li>
             <li class=" ">
@@ -44,12 +49,17 @@
                   <em class="icon-wrench"></em><span>Work Requests</span>
                </a>
             </li>
-            <li class=" "><a href="#employee-directory" title="Elements" data-toggle="collapse"><em class="icon-people"></em><span>Employee Directory</span></a>
+            <li class=" "><a href="#employee-directory" title="Elements" data-toggle="collapse"><em class="icon-organization"></em><span>Employee Directory</span></a>
                <ul class="sidebar-nav sidebar-subnav collapse" id="employee-directory">
                   <li class="sidebar-subnav-header">Employee Directory</li>
                   <li class=" "><a href="chart-chartist.html" title="Chartist"><span>All employees</span></a></li>
                   <li class=" "><a href="chart-chartist.html" title="Chartist"><span>Admin roles</span></a></li>
                </ul>
+            </li>
+            <li class=" ">
+               <a href="#" title="requests">
+                  <em class="icon-puzzle"></em><span>Integrations</span>
+               </a>
             </li>
             <li class="nav-heading "><span></span></li>
             <hr class="sidebar-footer-margin">

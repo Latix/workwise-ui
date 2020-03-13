@@ -8,9 +8,8 @@
          <!-- Page content-->
          <div class="content-wrapper">
             <div class="content-heading">
-               <div>Workwise HQ<small>Welcome to Workwise!</small></div><!-- START Language list-->
-               <!-- END Language list-->
-            </div><!-- START cards box-->
+               <div>Workwise HQ<small>Welcome to Workwise!</small></div>
+            </div>
             <div class="tw-flex tw-mt-6">
                <div class="tw-w-1/3 tw-pr-1 md:tw-pr-2 lg:tw-pr-3 card-marg-right">
                   <div id="ember645" class="ember-view">
@@ -192,7 +191,7 @@
                </div>
             </div>
          </div>
-      </section><!-- Page footer-->
+      </section>
       <footer class="footer-container"><span class="footer-copy"></span></footer>
    </div>
 <?php include_once('layouts/footer.php'); ?>

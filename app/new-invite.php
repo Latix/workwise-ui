@@ -29,7 +29,7 @@
                     	<form>
                     		<div class="row">
                     			<div class="col-md-8 form-group">
-	                    			<label><b>VISITOR TYPE</b></label>
+	                    			<label><small><b>VISITOR TYPE</b></small></label>
 	                    			<select class="custom-select custom-select-sm visit-drop-height">
 										<option value="1">Visitor</option>
 	                              	</select>
@@ -37,11 +37,11 @@
                     		</div>
                     		<div class="row">
                     			<div class="col-md-4 form-group">
-                    				<label><b>ARRIVAL DATE</b> <span class="required">*</span></label>
+                    				<label><small><b>ARRIVAL DATE</b></small>&nbsp;<span class="required">*</span></label>
 	                     			<input id="flatpickr">
                     			</div>
                     			<div class="col-md-4 form-group">
-	                    			<label><b>ARRIVAL TIME</b> <span class="required">*</span></label>
+	                    			<label><small><b>ARRIVAL TIME</b></small><span class="required">*</span></label>
 	                    			<select class="custom-select custom-select-sm visit-drop-height">
 										<option value="1">12:45 pm</option>
 										<option value="1">1:00 pm</option>
@@ -51,25 +51,25 @@
                     		</div>
                     		<div class="row">
                     			<div class="col-md-8 form-group">
-	                    			<label><b>FULL NAME</b><span class="required">*</span></label>
-	                    			<input class="form-control" type="email" placeholder="Enter full name">
+	                    			<label><small><b>FULL NAME</b></small>&nbsp;<span class="required">*</span></label>
+	                    			<input class="form-control" type="text" placeholder="Enter full name">
 	                    		</div>
                     		</div>
                     		<div class="row">
                     			<div class="col-md-8 form-group">
-	                    			<label><b>VISITOR EMAIL ADDRESS</b><span class="required">*</span></label>
+	                    			<label><small><b>VISITOR EMAIL ADDRESS</b></small>&nbsp;<span class="required">*</span></label>
 	                    			<input class="form-control" type="email" placeholder="Enter email">
 	                    		</div>
                     		</div>
                     		<div class="row">
                     			<div class="col-md-8 form-group">
-	                    			<label><b>PHONE NUMBER</b><span class="required">*</span></label>
+	                    			<label><small><b>PHONE NUMBER</b></small>&nbsp;<span class="required">*</span></label>
 	                    			<input class="form-control" type="text" placeholder="Enter phone number">
 	                    		</div>
                     		</div>
                     		<div class="row">
                     			<div class="col-md-8 form-group">
-                    				<label><b>PRIVATE NOTE</b></label>
+                    				<label><small><b>PRIVATE NOTE</b></small></label>
                     				<textarea class="form-control note-editor note-editor-margin" rows="5"></textarea>
                     			</div>
                     		</div>

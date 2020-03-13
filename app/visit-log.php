@@ -90,7 +90,7 @@
 										    </button>
 							        	</div>
 							        </td>
-							        <td data-toggle="dropdown" aria-expanded="false">
+							        <td>
 							        	<div id="ember573" class="ember-view ember-basic-dropdown-trigger " role="button" tabindex="0" data-ebd-id="ember571-trigger" aria-owns="ember-basic-dropdown-content-ember571" data-toggle="dropdown" aria-expanded="false">
 									        <div data-test-options-handle="" class="js-entry-action-menu-trigger">
 												<svg class="js-entry-action-menu-icon" width="18" height="4" viewBox="0 0 18 4" xmlns="http://www.w3.org/2000/svg"><path d="M1.8 3.604a1.8 1.8 0 0 0 1.8-1.802 1.8 1.8 0 1 0-1.8 1.802zm7.2 0a1.8 1.8 0 0 0 1.8-1.802A1.8 1.8 0 1 0 9 3.604zm7.2 0A1.8 1.8 0 0 0 18 1.802a1.8 1.8 0 1 0-1.8 1.802z" fill="#898B91" fill-rule="evenodd"></path></svg>
@@ -130,7 +130,7 @@
 							            	<span class="grayDark">2:36 pm</span>
 							            </div>
 							        </td>
-							        <td data-toggle="dropdown" aria-expanded="false">
+							        <td>
 							        	<div id="ember573" class="ember-view ember-basic-dropdown-trigger " role="button" tabindex="0" data-ebd-id="ember571-trigger" aria-owns="ember-basic-dropdown-content-ember571" data-toggle="dropdown" aria-expanded="false">
 									        <div data-test-options-handle="" class="js-entry-action-menu-trigger">
 												<svg class="js-entry-action-menu-icon" width="18" height="4" viewBox="0 0 18 4" xmlns="http://www.w3.org/2000/svg"><path d="M1.8 3.604a1.8 1.8 0 0 0 1.8-1.802 1.8 1.8 0 1 0-1.8 1.802zm7.2 0a1.8 1.8 0 0 0 1.8-1.802A1.8 1.8 0 1 0 9 3.604zm7.2 0A1.8 1.8 0 0 0 18 1.802a1.8 1.8 0 1 0-1.8 1.802z" fill="#898B91" fill-rule="evenodd"></path></svg>
@@ -172,7 +172,7 @@
 										    </button>
 							        	</div>
 							        </td>
-							        <td data-toggle="dropdown" aria-expanded="false">
+							        <td>
 							        	<div id="ember573" class="ember-view ember-basic-dropdown-trigger " role="button" tabindex="0" data-ebd-id="ember571-trigger" aria-owns="ember-basic-dropdown-content-ember571" data-toggle="dropdown" aria-expanded="false">
 									        <div data-test-options-handle="" class="js-entry-action-menu-trigger">
 												<svg class="js-entry-action-menu-icon" width="18" height="4" viewBox="0 0 18 4" xmlns="http://www.w3.org/2000/svg"><path d="M1.8 3.604a1.8 1.8 0 0 0 1.8-1.802 1.8 1.8 0 1 0-1.8 1.802zm7.2 0a1.8 1.8 0 0 0 1.8-1.802A1.8 1.8 0 1 0 9 3.604zm7.2 0A1.8 1.8 0 0 0 18 1.802a1.8 1.8 0 1 0-1.8 1.802z" fill="#898B91" fill-rule="evenodd"></path></svg>

@@ -29,5 +29,8 @@
    <!-- =============== APP SCRIPTS ===============-->
    <script src="js/app.js"></script>
    <script src="js/custom.js"></script>
+   <script src="js/map.js"></script>
+   <script src="js/jscolor.js"></script>
+   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBwF3kU5pZ9X8Z_NacpyJDzZn3Q0pnO8OY&libraries=places&callback=initAutocomplete" async defer></script>
 </body>
 </html>
